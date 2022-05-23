@@ -1,0 +1,36 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center
+}
+
+.divprinc{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    gap: 20px;
+}
+
+.div{
+    padding: 15px 0px 25px 25px;
+    background: linear-gradient(99.21deg, #3C0187 46.98%, rgba(92, 4, 205, 0.414438) 51.46%, rgba(110, 0, 250, 0.414438) 98.68%, rgba(114, 30, 222, 0) 104%, rgba(68, 10, 142, 0.0459348) 104.3%);
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white
+
+}
+
+.botao {
+    background-color: rgb(16, 98, 250);
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius:10px;
+    color:white;
+    text-decoration: none;
+    margin-bottom:;
+}
+
+.img{
+  padding: 0px 50px 100px 100px;  
+  margin-left:500px;
+  margin-bottom:-100px;
+  margin-top:-160px;
+}
